@@ -18,7 +18,7 @@ This extension helps you deploy your app to Azure, whether you’re a first-time
 3. Search for “Learn Cloud” and select **Install**.
 4. Navigate to the Learn Cloud icon on the sidebar.
 
-![Learn Cloud Extension](assets/learncloudextension.png)
+![Learn Cloud Extension](assets/images/learncloudextension.png)
 
 ## Support for [vscode.dev](https://vscode.dev/)
 
